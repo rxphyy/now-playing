@@ -1,0 +1,17 @@
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\bin\Release\net8.0-windows10.0.19041.0\ConsoleApp6.exe
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\bin\Release\net8.0-windows10.0.19041.0\ConsoleApp6.deps.json
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\bin\Release\net8.0-windows10.0.19041.0\ConsoleApp6.runtimeconfig.json
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\bin\Release\net8.0-windows10.0.19041.0\ConsoleApp6.dll
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\bin\Release\net8.0-windows10.0.19041.0\ConsoleApp6.pdb
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\bin\Release\net8.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\bin\Release\net8.0-windows10.0.19041.0\WinRT.Runtime.dll
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\obj\Release\net8.0-windows10.0.19041.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\obj\Release\net8.0-windows10.0.19041.0\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\obj\Release\net8.0-windows10.0.19041.0\ConsoleApp6.AssemblyInfo.cs
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\obj\Release\net8.0-windows10.0.19041.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\obj\Release\net8.0-windows10.0.19041.0\ConsoleA.F7A32CA5.Up2Date
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\obj\Release\net8.0-windows10.0.19041.0\ConsoleApp6.dll
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\obj\Release\net8.0-windows10.0.19041.0\refint\ConsoleApp6.dll
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\obj\Release\net8.0-windows10.0.19041.0\ConsoleApp6.pdb
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\obj\Release\net8.0-windows10.0.19041.0\ConsoleApp6.genruntimeconfig.cache
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\obj\Release\net8.0-windows10.0.19041.0\ref\ConsoleApp6.dll

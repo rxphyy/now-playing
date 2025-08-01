@@ -1,0 +1,30 @@
+{
+  "text.autoconfig.nowplaying.title": "Now Playing - Paramètres",
+
+  "text.autoconfig.nowplaying.option.sidePosition": "Position du widget",
+  "text.autoconfig.nowplaying.option.sidePosition.@Tooltip": "Contrôle où le widget du mod sera positionné à l'écran.",
+
+  "text.autoconfig.nowplaying.option.yPosition": "Position verticale",
+  "text.autoconfig.nowplaying.option.yPosition.@Tooltip": "Contrôle la position du widget sur l'axe Y (verticalement).",
+
+  "text.autoconfig.nowplaying.option.fontSize": "Taille de la police",
+  "text.autoconfig.nowplaying.option.fontSize.@Tooltip": "Contrôle la taille du texte à l'écran.",
+
+  "text.autoconfig.nowplaying.option.backgroundOpacity": "Opacité de l'arrière-plan",
+  "text.autoconfig.nowplaying.option.backgroundOpacity.@Tooltip": "À quel point l'arrière-plan du widget doit-il être transparent?",
+
+  "text.autoconfig.nowplaying.option.showCoverArt": "Afficher la pochette",
+  "text.autoconfig.nowplaying.option.showCoverArt.@Tooltip": "Afficher ou masquer la pochette du média en cours de lecture?",
+
+  "text.autoconfig.nowplaying.option.showTimeline": "Afficher la ligne de temps",
+  "text.autoconfig.nowplaying.option.showTimeline.@Tooltip": "Afficher la durée de la piste ainsi que la position actuelle?",
+
+  "text.autoconfig.nowplaying.option.showArtistName": "Afficher le nom de l'artiste",
+  "text.autoconfig.nowplaying.option.showArtistName.@Tooltip": "Afficher le nom de l'artiste pour le média en cours de lecture?",
+
+  "text.autoconfig.nowplaying.option.showMediaTitle": "Afficher le titre du média",
+  "text.autoconfig.nowplaying.option.showMediaTitle.@Tooltip": "Afficher le titre du média en cours de lecture?",
+
+  "text.autoconfig.nowplaying.option.showPlayStatusIcon": "Afficher l'icône de lecture",
+  "text.autoconfig.nowplaying.option.showPlayStatusIcon.@Tooltip": "Afficher une icône à côté de la ligne de temps pour indiquer si le média est en cours de lecture ou en pause?"
+}

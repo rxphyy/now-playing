@@ -1,0 +1,30 @@
+{
+  "text.autoconfig.nowplaying.title": "Now Playing - Settings",
+
+  "text.autoconfig.nowplaying.option.sidePosition": "Widget position",
+  "text.autoconfig.nowplaying.option.sidePosition.@Tooltip": "Controls where the mod widget's will be displayed on your screen.",
+
+  "text.autoconfig.nowplaying.option.yPosition": "Vertical position",
+  "text.autoconfig.nowplaying.option.yPosition.@Tooltip": "Controls the mod widget's position on the Y axis (vertically).",
+
+  "text.autoconfig.nowplaying.option.fontSize": "Font size",
+  "text.autoconfig.nowplaying.option.fontSize.@Tooltip": "Controls the size of the text on screen.",
+
+  "text.autoconfig.nowplaying.option.backgroundOpacity": "Background opacity",
+  "text.autoconfig.nowplaying.option.backgroundOpacity.@Tooltip": "How transparent should the background of the widget be?",
+
+  "text.autoconfig.nowplaying.option.showCoverArt": "Show cover art",
+  "text.autoconfig.nowplaying.option.showCoverArt.@Tooltip": "Should the cover art for what you're listening to be displayed?",
+
+  "text.autoconfig.nowplaying.option.showTimeline": "Show timeline",
+  "text.autoconfig.nowplaying.option.showTimeline.@Tooltip": "Display the track length as well as the current position?",
+
+  "text.autoconfig.nowplaying.option.showArtistName": "Show artist name",
+  "text.autoconfig.nowplaying.option.showArtistName.@Tooltip": "Show the artist name for the media that's currently playing?",
+
+  "text.autoconfig.nowplaying.option.showMediaTitle": "Show media title",
+  "text.autoconfig.nowplaying.option.showMediaTitle.@Tooltip": "Show the title for the media that's currently playing?",
+
+  "text.autoconfig.nowplaying.option.showPlayStatusIcon": "Show play status icon",
+  "text.autoconfig.nowplaying.option.showPlayStatusIcon.@Tooltip": "Display an icon next to the timeline that shows if the media is playing or paused?"
+}

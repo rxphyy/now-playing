@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "nowplaying",
+	"version": "${version}",
+	"name": "Now Playing",
+	"description": "✧ See what's playing on your device while your game is maximized; No need to Alt-Tab anymore !",
+	"authors": [
+		"raphyy"
+	],
+	"contact": {
+		"email": "raphmarier@proton.me",
+		"homepage": "https://modrinth.com/mod/now-playing-mod",
+		"sources": "https://github.com/rxphyy/now-playing",
+		"issues": "https://github.com/rxphyy/now-playing/issues"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/nowplaying/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [ "com.example.NowPlaying" ],
+		"client": [ "com.example.NowPlayingClient" ],
+		"modmenu": [ "com.example.NowPlayingClient" ]
+	},
+	"mixins": [
+		"nowplaying.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0e6Oo/W4FeJtdwgwGjhOArNyVpaw4P6Wc33NvnzJcMQaam4vAZ8BNKBq/FpsAfcTtv5+b1eHFHwG8kMhJ/NTUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Raphael\\source\\repos\\nowPlayingServer\\NowPlaying\\NowPlaying.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raphael\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512"
+  ],
+  "logs": []
+}

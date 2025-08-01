@@ -1,0 +1,17 @@
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0-windows10.0.19041.0\NowPlaying.exe
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0-windows10.0.19041.0\NowPlaying.deps.json
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0-windows10.0.19041.0\NowPlaying.runtimeconfig.json
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0-windows10.0.19041.0\NowPlaying.dll
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0-windows10.0.19041.0\NowPlaying.pdb
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0-windows10.0.19041.0\WinRT.Runtime.dll
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0-windows10.0.19041.0\NowPlaying.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0-windows10.0.19041.0\NowPlaying.AssemblyInfoInputs.cache
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0-windows10.0.19041.0\NowPlaying.AssemblyInfo.cs
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0-windows10.0.19041.0\NowPlaying.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0-windows10.0.19041.0\NowPlaying.csproj.Up2Date
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0-windows10.0.19041.0\NowPlaying.dll
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0-windows10.0.19041.0\refint\NowPlaying.dll
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0-windows10.0.19041.0\NowPlaying.pdb
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0-windows10.0.19041.0\NowPlaying.genruntimeconfig.cache
+C:\Users\Raphael\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0-windows10.0.19041.0\ref\NowPlaying.dll
